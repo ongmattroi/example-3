@@ -1,0 +1,17 @@
+{
+  "Inbound": {
+    "title": "Inbound",
+    "icon": "faAngleRight",
+    "children": {
+      "Recieving": {
+        "title": "Recieving",
+        "icon": "faTruck"
+      },
+      "Search": {
+        "title": "Search",
+        "icon": "faSearch"
+      }
+    }
+  },
+  "Outbound": { "title": "Outbound", "icon": "faAngleLeft", "children": {} }
+}

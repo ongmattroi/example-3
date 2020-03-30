@@ -1,0 +1,17 @@
+{
+  "Inbound": {
+    "title": "Nhập",
+    "icon": "faAngleRight",
+    "children": {
+      "Recieving": {
+        "title": "Nhập",
+        "icon": "faTruck"
+      },
+      "Search": {
+        "title": "Tìm kiếm",
+        "icon": "faSearch"
+      }
+    }
+  },
+  "Outbound": { "title": "Outbound", "icon": "faAngleLeft", "children": {} }
+}
